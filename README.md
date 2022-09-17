@@ -1,1 +1,14 @@
 # Digital-Clock
+
+tkinter library is installed by default in python
+
+
+Import some library to run the code:
+from tkinter import *
+from tkinter.ttk import *
+from time import strftime
+import time
+
+
+You should to install "ds-digital" font on your system
+these fonts are exist in this repository
